@@ -1,3 +1,2 @@
 # Tryit
-Try it is a game in js
-Has to improve
+Try it is a game in js, see on https://gaunitsu.github.io/Tryit/ .
